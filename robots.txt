@@ -1,0 +1,3 @@
+User-agent: * Allow: /
+
+Sitemap: https://zayzx.vercel.app/sitemap.xml
